@@ -13,5 +13,3 @@ Para saber mais sobre este projeto, acesse o link do meu [artigo](https://medium
 * Pomelo.EntityFrameworkCore.MySql
 * MySqlConnector
 
-## Sobre:
-O projeto modelo.api foi desenvolvido por Alex Alves.
